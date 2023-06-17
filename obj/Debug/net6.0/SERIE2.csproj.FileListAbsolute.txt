@@ -1,0 +1,15 @@
+C:\Users\bebal\source\repos\SERIE2\bin\Debug\net6.0\SERIE2.exe
+C:\Users\bebal\source\repos\SERIE2\bin\Debug\net6.0\SERIE2.deps.json
+C:\Users\bebal\source\repos\SERIE2\bin\Debug\net6.0\SERIE2.runtimeconfig.json
+C:\Users\bebal\source\repos\SERIE2\bin\Debug\net6.0\SERIE2.dll
+C:\Users\bebal\source\repos\SERIE2\bin\Debug\net6.0\SERIE2.pdb
+C:\Users\bebal\source\repos\SERIE2\obj\Debug\net6.0\SERIE2.csproj.AssemblyReference.cache
+C:\Users\bebal\source\repos\SERIE2\obj\Debug\net6.0\SERIE2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bebal\source\repos\SERIE2\obj\Debug\net6.0\SERIE2.AssemblyInfoInputs.cache
+C:\Users\bebal\source\repos\SERIE2\obj\Debug\net6.0\SERIE2.AssemblyInfo.cs
+C:\Users\bebal\source\repos\SERIE2\obj\Debug\net6.0\SERIE2.csproj.CoreCompileInputs.cache
+C:\Users\bebal\source\repos\SERIE2\obj\Debug\net6.0\SERIE2.dll
+C:\Users\bebal\source\repos\SERIE2\obj\Debug\net6.0\refint\SERIE2.dll
+C:\Users\bebal\source\repos\SERIE2\obj\Debug\net6.0\SERIE2.pdb
+C:\Users\bebal\source\repos\SERIE2\obj\Debug\net6.0\SERIE2.genruntimeconfig.cache
+C:\Users\bebal\source\repos\SERIE2\obj\Debug\net6.0\ref\SERIE2.dll
